@@ -1,0 +1,23 @@
+{
+  "name": "node-imap-listener",
+  "version": "0.0.1",
+  "description": "Listens to IMAP for messages and parses them",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/simontabor/node-imap-listener.git"
+  },
+  "keywords": [
+    "mail",
+    "imap",
+    "listen",
+    "email",
+    "gmail"
+  ],
+  "author": "Simon Tabor",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "imap": "~0.6.1"
+  }
+}
