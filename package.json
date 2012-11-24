@@ -18,6 +18,7 @@
   "license": "BSD",
   "readmeFilename": "README.md",
   "dependencies": {
-    "imap": "~0.6.1"
+    "imap": "~0.6.1",
+    "mailparser": "~0.2.31"
   }
 }
